@@ -7,13 +7,13 @@ This page will be updated with my current Japanese study goals. See [Archive](/)
 
 ### Next 1-2 weeks
 
-*As of 2022-04-22 - To be reviewed in the next study log*
+*As of 2022-05-02 - To be reviewed in the next study log*
 
-- Reach WK level 5
-    - I'm 3 days into level 4, so I should get to level 5 in around a week at my current pace.
-- Set up a regular schedule for studying
-    - As said above, I'm thinking about a 19:00 - 23:00 - 7:00 schedule
-- Start reading Genki
+- Try reading more
+    - In the beginning, I constantly tried reading random tweets and news even when I could only read the hiragana and not understand a single word. That naturally got old pretty fast and my study resources started taking up more time so I stopped doing it. But I'm now at a point where I can read a few words here and there so I want to get into a habit of looking at a small piece of native text every day and seeing if I can understand any part of it.
+
+- Complete Genki chapter 1 for real this time
+    - I think I'm about halfway through the vocab so that should allow me to re-start Genki pretty soon. The grammar itself is really simple in this one so I should get through it quickly once I "unlock" it.
 
 ### Next 3 months
 
