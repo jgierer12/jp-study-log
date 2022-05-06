@@ -10,10 +10,10 @@ This page will be updated with my current Japanese study goals. See [Archive](/)
 *As of 2022-05-02 - To be reviewed in the next study log*
 
 - Try reading more
-    - In the beginning, I constantly tried reading random tweets and news even when I could only read the hiragana and not understand a single word. That naturally got old pretty fast and my study resources started taking up more time so I stopped doing it. But I'm now at a point where I can read a few words here and there so I want to get into a habit of looking at a small piece of native text every day and seeing if I can understand any part of it.
+    - In the beginning, I constantly tried reading random tweets and news even when I could only read the hiragana and not understand a single word. That naturally got old pretty fast and my study resources started taking up more time, so I stopped doing it. But I'm now at a point where I can read a few words here and there, so I want to get into a habit of looking at a small piece of native text every day and seeing if I can understand any part of it.
 
 - Complete Genki chapter 1 for real this time
-    - I think I'm about halfway through the vocab so that should allow me to re-start Genki pretty soon. The grammar itself is really simple in this one so I should get through it quickly once I "unlock" it.
+    - I think I'm about halfway through the vocab so that should allow me to re-start Genki pretty soon. The grammar itself is really simple in this one, so I should get through it quickly once I "unlock" it.
 
 ### Next 3 months
 

@@ -21,25 +21,25 @@ Before I knew it, I was starting to learn my first kanji. The barrier to entry i
 
 ### Week 2
 
-I was making steady progress in WaniKani, but at this point I didn't really know much about WaniKani and learning Japanese other than what Zach Daniel's post taught me. So I went ahead and read through some [WaniKani community](https://community.wanikani.com/) posts. This is a really valuable resource, a huge community with tons of great threads, book clubs and much more. I learned that most users recommend focusing on learning kanji for at least the first 6 months, since everything else (grammar, listening, reading and production) is limited by your kanji knowledge. I also started learning about some other popular resources such as the Genki textbooks for grammar and the [NHK Easy News](https://www3.nhk.or.jp/news/easy/) site for reading practice.
+I was making steady progress in WaniKani, but at this point I didn't really know much about WaniKani and learning Japanese other than what Zach Daniel's post taught me. So I went ahead and read through some [WaniKani community](https://community.wanikani.com/) posts. This is a really valuable resource, a huge community with tons of great threads, book clubs and much more. I learned that most users recommend focusing on learning kanji for at least the first 6 months, since everything else (grammar, listening, reading and production) is limited by your kanji knowledge. I also started learning about some other popular resources, such as the Genki textbooks for grammar and the [NHK Easy News](https://www3.nhk.or.jp/news/easy/) site for reading practice.
 
 ### Week 3
 
-WaniKani only trains you to translate Japanese kanji/vocab into English, but not the other way around. This is great for learning kanji quickly, but of course knowing the English -> Japanese direction is also important for text production. To practice this, I started using [KameSame](https://www.kamesame.com/), but I don't want this to take away from my time spent on WK. Essentially just doing this when I don't have any pending reviews or lessons in WK.
+WaniKani only trains you to translate Japanese kanji/vocab into English, but not the other way around. This is great for learning kanji quickly, but of course knowing the English → Japanese direction is also important for text production. To practice this, I started using [KameSame](https://www.kamesame.com/), but I don't want this to take away from my time spent on WK. Essentially just doing this when I don't have any pending reviews or lessons in WK.
 
-I'm doing KameSame on my phone most of the time in order to learn the Japanese 12-key keyboard layout. This was pretty challenging at first but I quickly started building up some muscle memory and now I'm almost as fast typing on my phone as I'm on a PC using romaji input. I'll definitely continue doing this to get more comfortable with typing on this layout.
+I'm doing KameSame on my phone most of the time in order to learn the Japanese 12-key keyboard layout. This was pretty challenging at first, but I quickly started building up some muscle memory, and now I'm almost as fast typing on my phone as I'm on a PC using romaji input. I'll definitely continue doing this to get more comfortable typing on this layout.
 
-{{< figure src="/img/kamesame-mobile.jpg" alt="Screenshot of the KameSame mobile webiste with Japanese 12-key keyboard layout" position="center" style="border-radius: 8px; max-height: 600px;" >}}
+{{< figure src="/img/kamesame-mobile.jpg" alt="Screenshot of the KameSame mobile website with Japanese 12-key keyboard layout" position="center" style="border-radius: 8px; max-height: 600px;" >}}
 
 ### Week 4
 
-Because I was out of town this week, I installed the [Flaming Durtles](https://community.wanikani.com/t/android-flaming-durtles-android-app-with-offline-support/38400) app, an excellent community-made Android client for WaniKani that fixes some of the shortcomings of the WK mobile website, allowing me to do my lessons and reviews on the go.
+Because I was out of town this week, I installed the [Flaming Durtles](https://community.wanikani.com/t/android-flaming-durtles-android-app-with-offline-support/38400) app, an excellent community-made Android client for WaniKani that fixes some shortcomings of the WK mobile website, allowing me to do my lessons and reviews on the go.
 
 I also found [this wonderful post](https://community.wanikani.com/t/my-journey-of-368-days-the-ultimate-guide-for-wk/31318) which goes over a LOT of tips for learning Japanese.
 
-The biggest thing I took away from this is that I need to get into a specific schedule for my reviews and lessons. Until now, I've kind of just done lessons once a day at a random time, and reviews whenever I had time. But WaniKani's SRS (Spaced Repitition System) actually has intervals that heavily favor a schedule where you do revies at 3 specific times every day: The first review after you learn an item will show up after 4 hours, then (assuming you passed the review) 8 hours later, then 1 day, 2 days and so on. This means a schedule with 3 review sessions per day at these intervals will be the most efficient way to do WaniKani. I have university lectures in the morning on most days, so putting the 4-hour interval in the morning wouldn't really work. My best option probably is to do reviews and lessons at around 19:00, the second review session at 23:00, and the third session right after I wake up at around 7:00-8:00.
+The biggest thing I took away from this is that I need to get into a specific schedule for my reviews and lessons. Until now, I've kind of just done lessons once a day at a random time, and reviews whenever I had time. But WaniKani's SRS (Spaced Repetition System) actually has intervals that heavily favor a schedule where you do reviews at 3 specific times every day: The first review after you learn an item will show up after 4 hours, then (assuming you passed the review) 8 hours later, then 1 day, 2 days and so on. This means a schedule with 3 review sessions per day at these intervals will be the most efficient way to do WaniKani. I have university lectures in the morning on most days, so putting the 4-hour interval in the morning wouldn't really work. My best option probably is to do reviews and lessons at around 19:00, the second review session at 23:00, and the third session right after I wake up at around 7:00-8:00.
 
-I also bought a copy of the Genki textbook which is widely regarded as the best resource for learning Japanese grammar. Some time next week I'll start going through this, but as with KameSame I don't want to overdo it and take away time from WaniKani.
+I also bought a copy of the Genki textbook, which is widely regarded as the best resource for learning Japanese grammar. Some time next week I'll start going through this, but as with KameSame I don't want to overdo it and take away time from WaniKani.
 
 ## Where I'm at
 
@@ -47,7 +47,7 @@ Currently, I'm at the start of WaniKani level 4, meaning that I've learned 82 ka
 
 {{< figure src="/img/wkstats-2022-04-21.png" alt="WaniKani stats: Level 4, 82 kanji, 168 words" position="center" style="border-radius: 8px;" caption="My current WaniKani stats. Source: [wkstats.com](https://www.wkstats.com/)" >}}
 
-In total I'm spending around 1-2 hours on studying Japanese per day, there's definitely room for more there but I'd rather take it slow so I don't get burnt out.
+In total, I'm spending around 1-2 hours on studying Japanese per day, there's definitely room for more there but I'd rather take it slow so I don't get burnt out.
 
 ## Goals
 
