@@ -39,7 +39,7 @@ Also, I won't bother learning any kanji from Genki, since they will come up in W
 
 ## New Goals
 
-## Next 1-2 weeks
+### Next 1-2 weeks
 
 *To be reviewed in the next study log*
 
